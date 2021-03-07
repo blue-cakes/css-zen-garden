@@ -14,7 +14,7 @@ html {
 	padding: 0;
 	}
 body { 
-	font:mordern love, georgia, sans-serif;
+	font:mordern love, georgia, century gothic, sans-serif;
 	line-height: 1.88889;
 	color: #555753;  
 	margin: 0; 
@@ -41,7 +41,6 @@ a:visited {
 	color: #D4CDDC;
 	}
 a:hover, a:focus, a:active { 
-	text-decoration: underline; 
 	color: #9685BA;
 	}
 abbr {
