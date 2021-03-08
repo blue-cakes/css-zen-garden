@@ -1,0 +1,8 @@
+!this file is css only
+body {
+      font: times new roman, monospace;
+      colour: white;
+      padding: 2;
+      background-colour: black;
+      text-decoration: dotted-underline;
+      }
